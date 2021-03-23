@@ -1,7 +1,7 @@
 ################################################################################
 # Scripts to perfrom species distribution models as described in
-# Nielsen et al. (2020) 'Comparing drivers of molecular diversity: 
-# testing central-margin and refugial-persistence hypotheses in the marine environment'
+# Nielsen et al. (2021) 'Neither historical climate nor contemporary range fully 
+# explain extant patterns of molecular diversity in marine species'
 #
 # Adapted and/or written by ES Nielsen, Stellenbosch University, South Africa
 #
